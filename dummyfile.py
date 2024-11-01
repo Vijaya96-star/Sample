@@ -1,1 +1,1 @@
-print("thanuj reddy is a good girl")
+print("thanuj reddy is a good boy")
