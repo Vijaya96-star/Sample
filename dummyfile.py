@@ -1,3 +1,5 @@
-print("thanuj reddy is a good boy")
+print("Jesus is my saviour")
 
 Print ("vijaya is a Very strong girl")
+
+print
